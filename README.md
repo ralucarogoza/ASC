@@ -1,2 +1,2 @@
 # ASC
-homeworks written in assembly
+homework written in assembly
